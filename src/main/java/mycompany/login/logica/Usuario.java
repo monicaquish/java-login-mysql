@@ -12,7 +12,7 @@ import javax.persistence.Id;
 
 /**
  *
- * @author greci
+ * prueba
  */
 @Entity 
 public class Usuario implements Serializable {

@@ -7,7 +7,7 @@ package mycompany.login.persistencia;
 import java.util.List;
 import mycompany.login.logica.Usuario;
 
-
+  // prueba 
 public class ControladoraPersistencia {
     
     UsuarioJpaController usuJpa = new UsuarioJpaController();
@@ -16,6 +16,7 @@ public class ControladoraPersistencia {
         return usuJpa.findUsuarioEntities();
         //SELECT * FROM USUARIOS
     }
+    
     
     
     

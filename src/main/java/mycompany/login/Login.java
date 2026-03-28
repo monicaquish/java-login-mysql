@@ -8,7 +8,7 @@ import mycompany.login.igu.Principal;
 
 /**
  *
- * @author greci
+ * prueba
  */
 public class Login {
 

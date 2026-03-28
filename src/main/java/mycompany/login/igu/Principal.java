@@ -8,7 +8,7 @@ import mycompany.login.logica.Controladora;
 
 /**
  *
- * @author greci
+ * prueba
  */
 public class Principal extends javax.swing.JFrame {
 Controladora control;

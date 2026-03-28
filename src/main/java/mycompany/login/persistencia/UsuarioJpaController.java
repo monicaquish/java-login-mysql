@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package mycompany.login.persistencia;
-
+//prueba
 import java.io.Serializable;
 import java.util.List;
 import javax.persistence.EntityManager;

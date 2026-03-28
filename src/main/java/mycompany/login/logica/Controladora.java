@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package mycompany.login.logica;
-
+ //prueba
 import java.util.List;
 import mycompany.login.persistencia.ControladoraPersistencia;
 
