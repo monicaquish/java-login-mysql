@@ -16,5 +16,7 @@ Permite a los usuarios iniciar sesión ingresando su nombre de usuario y contras
 * Validación de credenciales en la base de datos
 * Mensajes de acceso correcto o incorrecto
 
-👨‍💻 Autor
-Monica 
+
+
+👩🏽‍💻 Autor: Monica  
+🌟✨ Gracias por visitar mi perfil ✨🌟
