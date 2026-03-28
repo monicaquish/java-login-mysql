@@ -1,0 +1,12 @@
+mycompany\login\persistencia\exceptions\IllegalOrphanException.class
+mycompany\login\igu\Principal.class
+mycompany\login\persistencia\exceptions\PreexistingEntityException.class
+mycompany\login\persistencia\exceptions\NonexistentEntityException.class
+mycompany\login\persistencia\ControladoraPersistencia.class
+mycompany\login\persistencia\UsuarioJpaController.class
+mycompany\login\igu\Principal$1.class
+mycompany\login\logica\Controladora.class
+mycompany\login\igu\Principal$2.class
+mycompany\login\logica\Usuario.class
+mycompany\login\logica\Usuario_.class
+mycompany\login\Login.class
